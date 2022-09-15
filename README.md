@@ -2,6 +2,8 @@
 
 ## Introdução
 
+<img src="https://user-images.githubusercontent.com/42893957/190426160-5c8c67c8-5e5c-440f-8201-bf4fd4c0f0b4.png" width="200"/>
+
 Minha atuação na área de tecnologia se iniciou em 2016, quando iniciei o ensino médio-técnico, em um curso voltado para programação web e foi quando meu interesse pela área despertou.  No ensino superior, busquei continuar explorando esse interesse, ingressando na Fatec em 2019. O propósito deste portifólio é compilar todos os projetos, os quais eu participei, realizados durante a minha formação na Fatec Prof. Jessen Vidal e expor cada um deles de forma cronológica.
 
 ## Meus Projetos
