@@ -7,6 +7,7 @@ Fatec São José dos Campos - Prof. Jessen Vidal
 O projeto tinha como finalidade integrar uma plataforma de prototipagem eletrônica da forma que a equipe decidisse. O tema escolhido pela equipe foi criar um modelo de vending machine com uma interface de compra que seria simulada em um smartphone. O processo era composto por 2 passos: compra e retirada, uma vez que a compra era finalizada o produto ficava disponível para ser coletado. Além disso, o acesso aos produtos era restrito enquanto não houvesse nenhuma retirada pendente.
 
 **Link do git**
+
 [Vending Machine](https://github.com/ud21/Vending-Machine)
 
 #### Tecnologias Utilizadas
