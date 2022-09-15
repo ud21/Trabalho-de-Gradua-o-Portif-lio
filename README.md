@@ -7,7 +7,7 @@ Minha atuação na área de tecnologia se iniciou em 2016, quando iniciei o ensi
 ## Meus Projetos
 
 ### 2019-2
-[Vending Machine](https://github.com/ud21/Trabalho-deGraduacao-Portifolio/blob/main/API 2019-2 Vending Machine.md)
+[Vending Machine](https://github.com/ud21/Trabalho-de-Graduacao-Portifolio/blob/main/API%202019-2%20Vending%20Machine.md)
 
 ## Meus Principais Conhecimentos
 - Linguagens de Programação
