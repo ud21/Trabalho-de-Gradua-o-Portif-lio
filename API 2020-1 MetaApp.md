@@ -1,6 +1,6 @@
 
 ### Projeto Integrador 2020: MetaApp
-  
+![image](https://user-images.githubusercontent.com/42893957/195733032-478908f8-cc5c-4ead-a5a0-ab9b7a97091a.png)
   
 #### Parceiro Acadêmico
 
@@ -27,8 +27,11 @@ A problemática era entregar ao cliente um produto que gerasse, a partir dos arq
 #### Requisitos Não Funcionais
 - Disponibilizar uma aplicação desktop
 - Análise e tratamento de arquivos .xlsx e .csv
-  
 
+#### Funcionamento - Relatórios
+<img src="https://user-images.githubusercontent.com/42893957/195733127-812559f2-9b1a-4c7f-b4bf-4f109bd981ef.png" width="800"/>
+
+  
 **Link do git**
 
   
