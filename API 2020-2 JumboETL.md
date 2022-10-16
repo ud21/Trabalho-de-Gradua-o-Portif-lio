@@ -1,6 +1,5 @@
 ### Projeto Integrador 2020-2: JumboETL
-<img src="" width="200"/>
-
+<img src="https://user-images.githubusercontent.com/42893957/196050451-531385a9-203b-4153-8eca-f82336140c26.png" width="200"/>
 
 #### Parceiro Acadêmico
 
@@ -24,10 +23,10 @@ O JumboETL, solução oferecida, se trata de uma aplicação Web que permite a m
 
 #### Funcionamento
 ##### Telas da Aplicação
-<img src="" width="800"/>
-
+<img src="https://user-images.githubusercontent.com/42893957/196050467-6330bd1e-f938-4ed4-81de-bc02091aa881.jpg" width="1100"/>
   
 **Link do git**
+
 [JumboETL](https://github.com/DaviNeves0/ETL_Visiona)
 
 #### Tecnologias Utilizadas
@@ -48,7 +47,7 @@ Front-end
  - **Bibliotecas**: React, Axios e Ant Design.
 
 #### Contribuições Pessoais
-Durante o desenvolvimento do projeto, tive como maior contribuição o desenvolvimento do código front-end utilizando Figma para a construção do layout base da aplicação e React para construir o layout com HTML e CSS e integrar as funcionalidades do back-end utlizando JS.
+Durante o desenvolvimento do projeto, tive como maior contribuição o desenvolvimento do código front-end utilizando Figma para a construção do layout base da aplicação e o framework React para construção do layout, assim como HTML e CSS, além integrar as funcionalidades do back-end utlizando JS.
 
 #### Hard Skills
  - Utilizar HTML para desenvolvimento: Sei utilizar com autonomia;
