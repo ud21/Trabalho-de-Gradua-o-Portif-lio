@@ -1,5 +1,5 @@
 
-### Projeto Integrador 2020: MetaApp
+### Projeto Integrador 2020-1: MetaApp
 ![image](https://user-images.githubusercontent.com/42893957/195733032-478908f8-cc5c-4ead-a5a0-ab9b7a97091a.png)
   
 #### Parceiro Acadêmico
