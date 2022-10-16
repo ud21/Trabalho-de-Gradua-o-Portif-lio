@@ -1,4 +1,4 @@
-### Projeto Integrador 2019-1: Vending Machine
+### Projeto Integrador 2019-2: Vending Machine
 
 #### Parceiro Acadêmico
 Fatec São José dos Campos - Prof. Jessen Vidal
