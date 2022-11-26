@@ -1,3 +1,4 @@
+
 # Guilherme Oliveira Pontes Alvarenga
 
 ## Introdução
@@ -17,6 +18,15 @@ Minha atuação na área de tecnologia se iniciou em 2016, quando iniciei o ensi
 ### 2020-2
 [JumboETL](https://github.com/ud21/Trabalho-de-Graduacao-Portifolio/blob/main/API%202020-2%20JumboETL.md)
 
+### 2021-1
+[EasyATA]()
+
+### 2021-2
+[OnlyMotors]()
+
+### 2022-1
+[Pycemaker]()
+
 ## Meus Principais Conhecimentos
 - Linguagens de Programação
 	- C# 
@@ -31,5 +41,3 @@ Minha atuação na área de tecnologia se iniciou em 2016, quando iniciei o ensi
 
 ## Contatos
 * [GIT](https://github.com/ud21)
-
-
