@@ -19,13 +19,13 @@ Minha atuação na área de tecnologia se iniciou em 2016, quando iniciei o ensi
 [JumboETL](https://github.com/ud21/Trabalho-de-Graduacao-Portifolio/blob/main/API%202020-2%20JumboETL.md)
 
 ### 2021-1
-[EasyATA]()
+[EasyATA](https://github.com/ud21/Trabalho-de-Graduacao-Portfolio/blob/main/API%202021-1%20EasyATA.md)
 
 ### 2021-2
-[OnlyMotors]()
+[OnlyMotors](https://github.com/ud21/Trabalho-de-Graduacao-Portfolio/blob/main/API%202021-2%20OnlyMotors.md)
 
 ### 2022-1
-[Pycemaker]()
+[Pycemaker](https://github.com/ud21/Trabalho-de-Graduacao-Portfolio/blob/main/API%202022-1%20Pycemaker.md)
 
 ## Meus Principais Conhecimentos
 - Linguagens de Programação
